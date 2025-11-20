@@ -5,4 +5,5 @@
         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.21.xsd">
     <include file="changelogs/ver1.xml"/>
     <include file="changelogs/ver2.xml"/>
+    <include file="changelogs/ver3.xml"/>
 </databaseChangeLog>

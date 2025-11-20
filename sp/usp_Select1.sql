@@ -1,0 +1,10 @@
+IF OBJECT_ID('dbo.usp_Select1', 'P') IS NOT NULL
+    DROP PROCEDURE dbo.usp_Select1
+GO
+
+CREATE PROCEDURE dbo.usp_Select1
+AS
+BEGIN
+	SELECT 1
+END
+GO
